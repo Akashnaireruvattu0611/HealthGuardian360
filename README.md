@@ -112,11 +112,13 @@ HealthGuardian360/
 
 ## 🖥️ Power BI Dashboard Preview
 
-> 🎯 **Note:** You can download the `.pbix` file from `/dashboards` or view the screenshot below.
+> 🎯 **Note:**  
+> You can **view the interactive dashboard online** here:  
+> [🔗 **View Power BI Dashboard**](http://bit.ly/4eN8Ps6)
 
-![Dashboard Screenshot](dashboard.png)
+Or download the `.pbix` file from `/dashboards`.
 
----
+![Dashboard Screenshot](Dashboard.png)
 
 ## 🗂️ How to Run This Project
 
