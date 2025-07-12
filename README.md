@@ -2,7 +2,7 @@
 Real-Time Patient Risk Prediction &amp; Resource Optimization Platform
 # 🩺 HealthGuardian360 – Predictive Healthcare Utilization Analytics
 
-![Project Banner](https://img.shields.io/badge/Project-Healthcare%20Prediction-blue)
+
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
