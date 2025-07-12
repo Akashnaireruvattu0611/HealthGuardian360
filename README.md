@@ -40,22 +40,29 @@ This project demonstrates **real-world data engineering, feature engineering, mo
 ## 📂 Repository Structure
 
 HealthGuardian360/
+│
 ├── data/
 │ ├── sample_predictions.csv
-│ └── (Instructions to download full dataset)
+│ └── README_data.txt # Instructions to download the full dataset (optional)
+│
 ├── ingestion/
 │ └── load_data.py
+│
 ├── modeling/
 │ └── model_training.ipynb
+│
 ├── dashboards/
 │ └── HealthGuardian_Dashboard.pbix
+│
 ├── notebooks/
 │ └── data_exploration.ipynb
+│
 ├── utils/
 │ └── helper_functions.py
-├── requirements.txt
-├── dashboard.png
-└── README.md
+│
+├── requirements.txt # Python dependencies
+├── Dashboard.png # Screenshot of the Power BI dashboard
+└── README.md # Project documentation
 
 ---
 
