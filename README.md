@@ -121,7 +121,7 @@ HealthGuardian360/
 ## 🗂️ How to Run This Project
 
 **1️⃣ Clone the repository**
-git clone https://github.com/YOURUSERNAME/HealthGuardian360.git
+git clone [https://github.com/YOURUSERNAME/HealthGuardian360.git](https://github.com/Akashnaireruvattu0611/HealthGuardian360.git)
 
 
 **2️⃣ Create virtual environment & install dependencies**
