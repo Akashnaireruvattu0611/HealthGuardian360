@@ -1,5 +1,4 @@
-# HealthGuardian360
-Real-Time Patient Risk Prediction &amp; Resource Optimization Platform
+
 # 🩺 HealthGuardian360 – Predictive Healthcare Utilization Analytics
 
 
