@@ -39,6 +39,7 @@ This project demonstrates **real-world data engineering, feature engineering, mo
 
 ## 🗂️ Folder Structure
 
+```
 HealthGuardian360/
 ├── data/
 │   ├── sample_predictions.csv
@@ -62,8 +63,8 @@ HealthGuardian360/
 ├── Dashboard.png                        # Screenshot of the Power BI dashboard
 ├── requirements.txt                     # Python dependencies
 └── README.md                            # Project documentation
+```
 
----
 
 ## 🧩 Project Workflow
 
